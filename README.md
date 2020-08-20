@@ -1,1 +1,1 @@
-# CLASS-23-WRONG
+# Box Class
